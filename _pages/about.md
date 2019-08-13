@@ -5,6 +5,7 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm a student data scientist learning R, and Python programming.
+I am learning data wrangling, exploratory analysis, data visualizations and machine learning.
 
-Etc, etc, etc
+I'm alos an Oracle DBA with 18 years experience.
